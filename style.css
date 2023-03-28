@@ -1,0 +1,38 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+h4
+{
+    font-family: cursive;
+    font-size: 18px;
+    color: white;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer 
+{
+    font-family: cursive;
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: plum;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px plum;
+}
